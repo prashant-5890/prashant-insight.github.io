@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Sniglet';
+    src: url('Sniglet-ExtraBold.eot');
+    src: url('Sniglet-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Sniglet-ExtraBold.woff2') format('woff2'),
+        url('Sniglet-ExtraBold.woff') format('woff'),
+        url('Sniglet-ExtraBold.ttf') format('truetype'),
+        url('Sniglet-ExtraBold.svg#Sniglet-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sniglet';
+    src: url('Sniglet-Regular.eot');
+    src: url('Sniglet-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Sniglet-Regular.woff2') format('woff2'),
+        url('Sniglet-Regular.woff') format('woff'),
+        url('Sniglet-Regular.ttf') format('truetype'),
+        url('Sniglet-Regular.svg#Sniglet-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
