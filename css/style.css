@@ -180,6 +180,7 @@ footer.footer-main a { color: #abb1bb; }
 	.logo-col { width: 100%; text-align: center; }
 	.logo-row.row .ex { justify-content: center; }
 	.footer-left-col { width: 100%; padding-bottom: 20px; }
+	.footer-col { width: 100%; }
 	.footer-right-col { width: 100%; }
 	.footer-top { text-align: left; min-height: 60px; }
 	.footer-bottom { padding: inherit; text-align: left; }
